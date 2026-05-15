@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baihaqi027
 - 👀 I’m interested in Web & Internet Technologies
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NodeJS, Python
 - 💞️ I’m looking to collaborate on Beginner Open Source Project
 - 📫 How to reach me, email me at baihaqi.027@gmail.com
 
